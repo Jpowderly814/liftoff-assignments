@@ -7,12 +7,38 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Piri- Find your Place
+
+Piri is an application for people looking to relocate. The app offers information about cities based on factors like cost of living, safety and security ratings, employment prospects, local education etc. Piri supports community-driven approach to provide accurate information about the cities by encouraging local residents to comment and write reviews on the app.
+
+Piri's mission is to help people make informed decision for their new place. The users can search for cities, compare them and view comments and reviews from local people to make the best choice for themselves.
+
 ### Features
-Include Features here
+User login: Users will be able to signup for accounts and login to the application. Each user will be able to create a profile page.
+
+Search: Users will be able to search for cities and see detail information about them.
+
+Sort: Users will be able to sort cities based on various factors like cost of living, safety and security ratings, employment prospects, local education etc.
+
+Compare: Users will be able to compare multiple cities.
+
+Comments & Reviews: Users will be able to add comments and reviews about their cities.
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
+JavaScript
+Bootstrap
+HTML
+CSS
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Public API integration to retrieve details about cities.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/rdzXKTzs/liftoff-capstone-project
+
+
