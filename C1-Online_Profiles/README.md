@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-[GitHub Profile](https://github.com/Jpowderly814)
+[Julie Powderly's GitHub Profile](https://github.com/Jpowderly814)
  
 ### LinkedIn
-[LinkedIn Profile](https://www.linkedin.com/in/julie-powderly-23bb44a4/)
+[Julie Powderly's LinkedIn Profile](https://www.linkedin.com/in/julie-powderly-23bb44a4/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
