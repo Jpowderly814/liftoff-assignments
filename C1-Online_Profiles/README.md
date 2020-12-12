@@ -13,6 +13,6 @@ For this assignment you will need to upload your resume and provide links to you
 [Julie Powderly's LinkedIn Profile](https://www.linkedin.com/in/julie-powderly-23bb44a4/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Julie Powderly Resume](https://github.com/Jpowderly814/liftoff-assignments/blob/master/C1-Online_Profiles/Resume/JuliePowderlyResume.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
